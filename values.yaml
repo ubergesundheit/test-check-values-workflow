@@ -1,5 +1,5 @@
 # Add a comment
-aString: string
+aString: 1
 anotherString: "another String - changed but not important"
 
 float: 1.2333
