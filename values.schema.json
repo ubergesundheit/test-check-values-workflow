@@ -1,0 +1,49 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "properties": {
+        "aString": {
+            "type": "string"
+        },
+        "anotherString": {
+            "type": "string"
+        },
+        "array": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "float": {
+            "type": "number"
+        },
+        "int": {
+            "type": "integer"
+        },
+        "obj": {
+            "type": "object",
+            "properties": {
+                "arr": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "nested": {
+                    "type": "object",
+                    "properties": {
+                        "cool": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "one": {
+                    "type": "integer"
+                },
+                "some": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
