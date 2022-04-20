@@ -1,19 +1,19 @@
-aString: string
+aString: stringstring
 anotherString: "another String"
 
-int: 1
+int: 2
 float: 1.2
 
 obj:
   some: key
-  one: 1
+  one: 12
   nested:
-    cool: swag
+    cool: swagswag
   arr:
-  - one
+  - oneone
   - two
 
 array:
 - one
-- two
+- twotwo
 - three
