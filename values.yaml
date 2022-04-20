@@ -1,0 +1,19 @@
+aString: string
+anotherString: "another String"
+
+int: 1
+float: 1.2
+
+obj:
+  some: key
+  one: 1
+  nested:
+    cool: swag
+  arr:
+  - one
+  - two
+
+array:
+- one
+- two
+- three
