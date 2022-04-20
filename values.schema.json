@@ -3,7 +3,7 @@
     "type": "object",
     "properties": {
         "aString": {
-            "type": "string"
+            "type": "integer"
         },
         "anotherString": {
             "type": "string"
@@ -16,9 +16,6 @@
         },
         "float": {
             "type": "number"
-        },
-        "int": {
-            "type": "integer"
         },
         "obj": {
             "type": "object",
