@@ -9,9 +9,9 @@ obj:
   some: key
   one: 1
   nested:
-    cool: swag
+    cool: swag-swag
   arr:
-  - one
+  - one1
   - two
 
 array:
