@@ -1,5 +1,5 @@
 aString: string
-anotherString: "another String"
+anotherString: "another String - changed but not important"
 
 int: 1
 float: 1.2
