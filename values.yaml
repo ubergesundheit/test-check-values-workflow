@@ -2,7 +2,7 @@
 aString: string
 anotherString: "another String - changed but not important"
 
-int: 1
+int: 2
 float: 1.2
 
 obj:
